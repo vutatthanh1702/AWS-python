@@ -1,7 +1,7 @@
 codedeploy_applicationName= 'DeployApplication6660'
 codedeploy_deploymentGroupName= 'deploytest'
 
-ami_InstanceMasterId= 'i-32bfab96'
+ami_InstanceMasterId= 'i-jj'
 
 cfn_URLtemplate= 'https://s3-ap-southeast-1.amazonaws.com/6660/testcfn.template'
 
